@@ -115,7 +115,7 @@ h1 {
     justify-content: flex-end;
     flex-direction: row;
     margin: 0% auto;
-    margin-top: 80px;
+    margin-top: 262px;
 }
 .author_name {
     font-family: "font-bold";
@@ -145,7 +145,6 @@ h1 {
     width: 1200px;
     height: 197px;
     margin-left: 100px;
-    margin-top: 270px;
 }
 
 .number_year {
@@ -188,7 +187,6 @@ h1 {
     height: 207px;
     display: flex;
     align-items: left;
-    margin-top: 80px;
     margin-left: 100px;
 }
 
@@ -621,6 +619,18 @@ h3 {
     letter-spacing: -50px;
 }
 
+.blocktwelve {
+    width: 1440px;
+    height: 1200px;
+    background-color: #f03971;
+    margin: 0% auto;
+
+}
+
+.disk3 {
+    margin-top:  400px;
+}
+
 .basement {
     width: 1440px;
     height: 1024px;
@@ -645,3 +655,4 @@ h3 {
     margin-left: 155px;
     margin-top: 80px;
 }
+
