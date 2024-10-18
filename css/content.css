@@ -622,34 +622,133 @@ h3 {
     letter-spacing: -50px;
 }
 
+
 .blocktwelve {
     width: 1440px;
-    height: 1200px;
+    height: 1000px;
     background-color: #f03971;
     margin: 0% auto;
+    display: flex;
+    flex-direction: column;
 
 }
 
+.front {
+    width: 1440px;
+    height: 948px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+}
+
+.star5 {
+    margin-top: 170px;
+}
+
+.star6 {
+    margin-left: -50px;
+}
+
+.paperclip2 {
+    margin-top: 180px;
+    margin-left: 483px;
+}
+
+.star5_1 {
+    margin-top: 170px;
+    margin-left: 140px;
+    transform: scaleX(-1);
+
+}
+
+.diskpack {
+    margin-top: 208px;
+    margin-left: 730px;
+    align-self: flex-end;
+}
+
+.lightning2 {
+    margin-left: -1360px;
+    rotate: 65deg;
+    align-self: flex-end;
+    margin-bottom: 120px;
+}
+
+.huge {
+    width: 1440px;
+    height: 546px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    position: absolute;
+}
+.w1 {
+    font-family: "font-bold";
+    font-size: 588px;
+    margin-top: 180px;
+    rotate: 5deg;
+    margin-left: 50px;
+
+}
+.w2 {
+    font-family: "font-bold";
+    font-size: 588px;
+    margin-top: 240px;
+    rotate: -6deg;
+    margin-left: -30px;
+}
+
+.w3 {
+    font-family: "font-bold";
+    font-size: 588px;
+    margin-top: 50px;
+    
+
+}
+.w4 {
+    font-family: "font-bold";
+    font-size: 588px;
+    margin-top: 180px;
+    rotate: 8deg;
+}
+
+.sign {
+    font-family: "font-bold";
+    font-size: 588px;
+    margin-top: 120px;
+    margin-left: -50px;
+
+}
+
+
+
 .back {
-    width: 1145px;
+    width: 1440px;
+    height: 535px;
+    margin-top: 400px;
     display: flex;
     flex-direction: row;
 }
 
 .disk3 {
-    margin-top:  400px;
+    margin-top: 30px;
 }
 
 .paperclip {
-    margin-top: 600px;
-    margin-left: 458px;
+    margin-top: 220px;
+    margin-left: 72px;
 }
 
 .lightning {
-    margin-top: 700px;
-    margin-left: 912px;
+    margin-top: 297px;
+    margin-left: 309px;
 
 }
+
+.star4 {
+    margin-left: -64px;
+}
+
 
 .basement {
     width: 1440px;
