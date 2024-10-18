@@ -115,6 +115,7 @@ h1 {
     justify-content: flex-end;
     flex-direction: row;
     margin: 0% auto;
+    margin-top: 80px;
 }
 .author_name {
     font-family: "font-bold";
