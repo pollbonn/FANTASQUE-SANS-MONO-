@@ -633,7 +633,7 @@ h3 {
 .back {
     width: 1145px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .disk3 {
