@@ -752,7 +752,7 @@ h3 {
 
 .basement {
     width: 1440px;
-    height: 1024px;
+    height: 1000px;
     background-color: #f03971;
     margin: 0% auto;
     display: flex;
@@ -764,7 +764,7 @@ h3 {
     width: 1130px;
     height: 458px;
     margin-left: 155px;
-    margin-top: 200px;
+    margin-top: 30px;
 }
 
 .mynameis {
