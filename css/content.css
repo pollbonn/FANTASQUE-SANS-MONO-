@@ -115,7 +115,6 @@ h1 {
     justify-content: flex-end;
     flex-direction: row;
     margin: 0% auto;
-    margin-top: 262px;
 }
 .author_name {
     font-family: "font-bold";
@@ -126,6 +125,7 @@ h1 {
     margin-top: 0% auto;
     display: flex;
     flex-direction: column;
+    margin-top: 262px
 }
 
 .star {
@@ -179,6 +179,7 @@ h1 {
     justify-content: center;
     flex-direction: column;
     margin: 0% auto;
+    margin-top: 0% auto;
 }
 
 
@@ -624,11 +625,23 @@ h3 {
     height: 1200px;
     background-color: #f03971;
     margin: 0% auto;
+    margin-top: 0% auto;
 
 }
 
 .disk3 {
     margin-top:  400px;
+}
+
+.paperclip {
+    margin-top: 600px;
+    margin-left: 458px;
+}
+
+.lightning {
+    margin-top: 700px;
+    margin-left: 912px;
+
 }
 
 .basement {
