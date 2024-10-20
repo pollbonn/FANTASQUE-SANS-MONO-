@@ -1,3 +1,22 @@
+/*  */
+.bold {
+     font-family: "font-bold";
+}
+
+.bold-italic {
+    font-family: "font-bold-italic";
+}
+
+.regular {
+    font-family: "font-regular";
+}
+
+.italic { 
+    font-family: "font-italic";
+
+}
+
+
 .block_one {
     display: flex;
     justify-content: center;
