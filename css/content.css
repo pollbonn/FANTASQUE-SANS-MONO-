@@ -48,6 +48,14 @@
 
 }
 
+.color-text-yellow {
+    color: #FFF200;
+}
+
+.color-text-pink {
+    color: #f03971;
+}
+
 .screen {
     width: 1240px;
     height: 856px;
