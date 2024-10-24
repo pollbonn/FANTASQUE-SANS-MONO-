@@ -1,4 +1,4 @@
-/*  */
+/* шрифты */
 .bold {
      font-family: "font-bold";
 }
@@ -16,13 +16,14 @@
 
 }
 
-
+/* блок 1 */
 .block_one {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
+/* блок 2 */
 .block_two {
     width: 1440px;
     height: 1024px;
@@ -57,6 +58,7 @@
     margin-left: -380px;
 }
 
+/* блок 3 */
 .block_three {
     width: 1440px;
     height: 1024px;
@@ -122,6 +124,7 @@ h1 {
 
 }
 
+/* блок 4 */
 .block_four {
     width: 1440px;
     height: 1024px;
@@ -161,6 +164,7 @@ h1 {
     height: 773px;
 }
 
+/* блок 5 */
 .block_five {
     width: 1440px;
     height: 817px;
@@ -199,6 +203,7 @@ h1 {
     align-self: flex-end;
 }
 
+/* блок 6 */
 .block_six {
     width: 1440px;
     height: 1250px;
@@ -209,7 +214,6 @@ h1 {
     margin: 0% auto;
     margin-top: 0% auto;
 }
-
 
 .name_two {
     width: 589px;
@@ -225,28 +229,31 @@ h1 {
     height: 693px;
     margin: 0% auto;
     margin-top: 50px;
-    position: relative;display: inline-block;
+    position: relative;
+    z-index: 1;
 }
 
 .byauthor {
-    position: absolute;
     font-family: "font-regular";
  color: #000000;
  font-size: 40px;
- top: 433px;
  left: 507px;
-
+ top: -260px;
+ position: relative;
+ z-index: 2;
 }
 
 .description {
-    position: absolute;
     font-family: "font-regular";
  color: #FFF200;
  font-size: 40px;
- top: 584px;
- left: 265px;
+ top: -200px;
+ left: 280px;
+ position: relative;
+ z-index: 3;
 }
 
+/* блок 7 */
 .block_seven {
     width: 1440px;
     height: 1024px;
@@ -259,6 +266,8 @@ h1 {
     width: 1440px;
     height: 330px;
     background-color: rgb(240, 57, 113);
+    position: relative;
+    z-index: -1;
 }
 
 .grotesque-1 {
@@ -299,6 +308,8 @@ h1 {
 .text-srublen {
     margin: 0% auto;
     margin-top: 134px;
+    position: relative;
+    z-index: 1;
 }
 
 .grotesque-3 {
@@ -324,6 +335,7 @@ h1 {
     padding: 10px;
 }
 
+/* блок 8 */
 .block_eight {
     width: 1440px;
     height: 1150px;
@@ -411,6 +423,7 @@ h2 {
     color: #ffffff;
 }
 
+/* блок 9 */
 .block_nine {
     width: 1440px;
     height: 1024px;
@@ -467,6 +480,7 @@ h2 {
 
 }
 
+/* блок 10 */
 .block_ten {
     width: 1440px;
     height: 1024px;
@@ -555,6 +569,7 @@ h2 {
     margin-left: 290px;
 }
 
+/* блок 11 */
 .block_eleven {
     width: 1440px;
     height: 1200px;
@@ -649,7 +664,7 @@ h3 {
     letter-spacing: -50px;
 }
 
-
+/* блок 12 */
 .blocktwelve {
     width: 1440px;
     height: 1000px;
@@ -776,7 +791,7 @@ h3 {
     margin-left: -64px;
 }
 
-
+/* подвал */
 .basement {
     width: 1440px;
     height: 1000px;
