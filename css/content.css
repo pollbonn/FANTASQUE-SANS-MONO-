@@ -271,7 +271,6 @@ h1 {
 }
 
 .grotesque-1 {
-    position: absolute;
     font-family: "font-bold";
     color: #f03971;
     font-size: 70px;
@@ -282,7 +281,6 @@ h1 {
 }
 
 .grotesque-2 {
-    position: absolute;
     font-family: "font-bold";
     color: #f03971;
     font-size: 70px;
@@ -313,7 +311,6 @@ h1 {
 }
 
 .grotesque-3 {
-    position: absolute;
     font-family: "font-bold";
     color: #f03971;
     font-size: 70px;
@@ -325,7 +322,7 @@ h1 {
 }
 
 .grotesque-4 {
-    position: absolute;
+
     font-family: "font-bold";
     color: #f03971;
     font-size: 70px;
