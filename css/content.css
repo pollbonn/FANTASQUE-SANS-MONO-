@@ -268,10 +268,6 @@ h1 {
     z-index: -1;
 }
 
-.down {
-    position: relative;
-    z-index: -2;
-}
 
 .grotesque-1 {
     font-family: "font-bold";
